@@ -1,0 +1,48 @@
+.banner {
+    background-image: url("../../../img/images/bannerbackground.png");
+    height: 400px;
+
+}
+
+.search {
+    text-align: center;
+    padding: 200px;
+    height: 40px;
+    padding-top: 120px;
+}
+
+.search-inp {
+    font-size: large;
+    height: 40px;
+    width: 400px;
+    border: none;
+    border-radius: 5px;
+}
+
+.search-btn {
+    font-size: medium;
+    height: 40px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 5px;
+    color: aliceblue;
+    background: #FF6347;
+    font-style: oblique;
+    font-weight: 700;
+}
+
+.search-btn:hover {
+    color: darkslategray;
+}
+
+.onion {
+    color: rgb(243, 57, 57);
+}
+
+.onion_text {
+    font-size: xx-large;
+    font-weight: 700;
+    font-style: oblique;
+    text-shadow: 5px 5px 5px #aaaaaa;
+}

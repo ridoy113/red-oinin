@@ -1,0 +1,15 @@
+.food_btn {
+    border: none;
+    background: transparent;
+    font-weight: 700;
+}
+
+.food_btn:hover {
+    color: #FF6347;
+}
+
+.check {
+    display: flex;
+    align-items: center;
+    ;
+}

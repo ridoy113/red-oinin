@@ -1,0 +1,39 @@
+.logo {
+    height: 80px;
+}
+
+.login-btn {
+    background-color: #FF6347;
+    border: none;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.login-btn:hover {
+    color: rgb(22, 18, 18);
+    background-color: white;
+    border: 2px solid #FF6347;
+}
+
+.full_login {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 10px #aaaaaa;
+}
+
+.register_text {
+    color: #FF6347;
+    font-size: larger;
+    font-weight: 400;
+}
+
+.register_text:hover {
+    color: lightslategray;
+}

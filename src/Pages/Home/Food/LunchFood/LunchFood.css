@@ -1,0 +1,9 @@
+.food {
+    text-align: center;
+    padding-bottom: 10px;
+    height: 340px;
+}
+
+.food img {
+    height: 200px;
+}

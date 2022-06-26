@@ -1,0 +1,11 @@
+.food-taitle {
+    text-align: center;
+    color: #FF6347;
+}
+.foods-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
